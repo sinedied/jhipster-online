@@ -1,6 +1,6 @@
 {
-  "name": "Jhonline",
-  "short_name": "Jhonline",
+  "name": "JHipster",
+  "short_name": "JHipster",
   "icons": [
       {
           "src": "./content/images/jhipster_family_member_0_head-192.png",
